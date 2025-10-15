@@ -1,0 +1,21 @@
+{
+  "name": "terminal-green",
+  "displayName": "Terminal Green",
+  "description": "A dark theme with classic retro terminal green",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Terminal Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terminal Green-color-theme.json"
+      }
+    ]
+  }
+}

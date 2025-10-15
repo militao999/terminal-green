@@ -17,5 +17,11 @@
         "path": "./themes/Terminal Green-color-theme.json"
       }
     ]
-  }
+  },
+"repository": {
+  "type": "git",
+  "url": "https://github.com/militao999/terminal-green.git"
+},
+"license": "MIT"
 }
+

@@ -9,15 +9,21 @@
   "categories": [
     "Themes"
   ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Terminal Green",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Terminal Green-color-theme.json"
-      }
-    ]
-  },
+"contributes": {
+  "themes": [
+    {
+      "label": "Terminal Green",
+      "uiTheme": "vs",
+      "path": "./themes/Terminal Green-color-theme.json"
+    },
+    {
+      "label": "Terminal Dark Green",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Terminal Green-color-theme-dark.json"
+    }
+ 
+  ]
+},
 "repository": {
   "type": "git",
   "url": "https://github.com/militao999/terminal-green.git"
